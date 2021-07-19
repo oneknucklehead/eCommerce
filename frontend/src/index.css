@@ -1,0 +1,18 @@
+main {
+  min-height: 80vh;
+}
+h3 {
+  padding: 1rem 0.7rem;
+}
+.card-Title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-decoration: none;
+}
+.rating {
+  margin: 0 0.7rem;
+}
+.rating span {
+  margin: 0.1rem;
+}
