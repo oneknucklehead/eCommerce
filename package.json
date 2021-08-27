@@ -4,6 +4,10 @@
   "description": "smol ecommerce webapp",
   "main": "server.js",
   "type": "module",
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+  },
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
